@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 *.pdf
+data/chroma_db/
